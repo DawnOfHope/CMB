@@ -28,4 +28,25 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-*.DS_Store
+
+
+# Unity generated and a few customs #
+# ================================= #
+Temp/*
+Library/*
+Build/*
+Obj/*
+WebBuild/*
+WindowsBuild/*
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
